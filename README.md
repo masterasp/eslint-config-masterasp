@@ -18,6 +18,7 @@ This module is ready to work with the following environments out of the box:
 
 And it contains the following rules:
 
+ - eslint:recommended
  - no-useless-concat
  - prefer-template
  - no-template-curly-in-string
