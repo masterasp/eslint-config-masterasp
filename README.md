@@ -1,1 +1,1 @@
-# eslint-masterasp
+# eslint--config-masterasp
