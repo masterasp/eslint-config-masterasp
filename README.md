@@ -1,5 +1,5 @@
-# eslint--config-masterasp
 
+##  What
 This module contains globally acclaimed rules and standards that enforce
 better code quality, diminish errors and prevent bugs.
 
@@ -36,4 +36,20 @@ And it contains the following rules:
  - no-var
  - prefer-const
 
-Works for eslint versions >= 3.
+Works for eslint versions >= 4.
+
+##  How
+
+To use it do:
+
+```
+npm install eslint -D
+```
+
+And after that:
+
+```
+npm install eslint--config-masterasp -D
+```
+
+Ready to go !

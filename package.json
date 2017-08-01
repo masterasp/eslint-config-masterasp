@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-masterasp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lint rules that masterASP adheres to.",
     "main": "index.js",
     "scripts": {
@@ -17,7 +17,7 @@
         "lint"
     ],
     "peerDependencies": {
-        "eslint": ">= 3"
+        "eslint": ">= 4"
     },
     "author": "Pedro Miguel Pereira Serrano Martins",
     "license": "ISC",
