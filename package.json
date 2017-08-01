@@ -1,0 +1,28 @@
+{
+    "name": "eslint-config-masterasp",
+    "version": "1.0.0",
+    "description": "Lint rules that masterASP adheres to.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/masterasp/eslint-config-masterasp.git"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "code-quality",
+        "lint"
+    ],
+    "peerDependencies": {
+        "eslint": ">= 3"
+    },
+    "author": "Pedro Miguel Pereira Serrano Martins",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/masterasp/eslint-config-masterasp/issues"
+    },
+    "homepage": "https://github.com/masterasp/eslint-config-masterasp#readme"
+}
